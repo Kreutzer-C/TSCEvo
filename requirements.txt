@@ -1,0 +1,8 @@
+batchgenerators
+numpy
+Pillow
+scikit_learn
+scipy
+tensorboardX
+torch>=2.0.0
+torchvision>=0.15.1

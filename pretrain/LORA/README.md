@@ -1,0 +1,1 @@
+The save path for CLIP model source LoRA fine-tuning (denotes as CLIP(ft)), only used for Terra incognita dataset.

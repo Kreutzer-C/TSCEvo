@@ -1,0 +1,1 @@
+The save path of CLIP's official pre-train parameters
